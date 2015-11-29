@@ -33,8 +33,10 @@ All files that you commit in your pull request must have Academic Free License (
 Changelog
 ------------
 2010-08-22
-	first release
+ - first release
+	
 ...
+
 2015-11-29
-	added a feature to show stock quantity for each product in a block
-	some refactoring changes
+ - added a feature to show stock quantity for each product in a block
+ - some refactoring changes
