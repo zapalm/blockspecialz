@@ -12,7 +12,7 @@ The module has a normal installation.
 
 To update the module just do this:
  - click uninstall button
- - remove all files from "/modules/zivosite/"
+ - remove all files from "/modules/blockspecialz/"
  - copy new files to the same directory
  - and click install button
  - configure the module
